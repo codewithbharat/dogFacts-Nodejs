@@ -1,2 +1,2 @@
 # dogFacts-Nodejs
-This API generates Pulls data from 'dog-Fact' NPM modules and stores to Database.
+This API  Pulls data from 'dog-Fact' NPM modules and stores to Database.
